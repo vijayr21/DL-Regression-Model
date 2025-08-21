@@ -131,9 +131,9 @@ print(f"Predicted for X = 120: {y_new_pred:.8f}")
 ```
 
 ### Dataset Information
-<img width="821" height="627" alt="image" src="https://github.com/user-attachments/assets/e3dc5c8e-9152-4b48-9f78-c20f30aa80eb" />
+<img width="571" height="455" alt="download" src="https://github.com/user-attachments/assets/964c54a4-0258-4ffb-8242-63e2dbbfdb9f" />
 
-<img width="322" height="101" alt="image" src="https://github.com/user-attachments/assets/0c4ec23e-9086-4815-95d0-7dd04296e4d6" />
+<img width="536" height="171" alt="Screenshot (126)" src="https://github.com/user-attachments/assets/adfbf398-6a41-4bb7-9d64-6cb8c51bd78a" />
 
 
 ### OUTPUT
@@ -145,12 +145,14 @@ Best Fit line plot
 
 <img width="821" height="625" alt="image" src="https://github.com/user-attachments/assets/6898c5ff-81d0-48c5-baff-4efd6cab988e" />
 
-<img width="562" height="115" alt="image" src="https://github.com/user-attachments/assets/f05f2868-1fd6-451c-b3e1-eba3778ab79d" />
+<img width="398" height="162" alt="Screenshot (127)" src="https://github.com/user-attachments/assets/40ef197f-de20-49b7-a596-14098455c37d" />
+
 
 
 ### New Sample Data Prediction
 
-<img width="428" height="96" alt="image" src="https://github.com/user-attachments/assets/369e4441-acd4-4137-9c10-ab251d00af48" />
+<img width="455" height="114" alt="Screenshot (128)" src="https://github.com/user-attachments/assets/98d6da56-dd34-4d9e-a4f2-7055d22cc2a0" />
+
 
 
 ## RESULT
